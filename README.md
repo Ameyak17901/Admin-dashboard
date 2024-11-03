@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-Admin Dashboard keeps track of number of signups and users on the portal.
+Admin Dashboard to keep track of number of signups and users on the portal.
 
 ## Instructions:
 
