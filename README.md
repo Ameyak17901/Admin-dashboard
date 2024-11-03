@@ -22,6 +22,7 @@ Admin Dashboard keeps track of number of signups and users on the portal.
      python -m venv <path>
      ```
    - Activate the environment:
+     
      For Mac: 
      ```
      source venv\bin\activate
