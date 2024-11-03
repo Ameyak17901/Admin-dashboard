@@ -1,0 +1,40 @@
+.dashboard {
+  top: 1;
+  grid-template-columns: 1fr 1fr;
+  padding: 1rem;
+  width: 80vw;
+  height: 20vh;
+}
+.app{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+}
+
+.profile{
+  display: flex;
+  justify-content: center;
+  margin: 30vh 0;
+  background-color: beige;
+  border-radius: 4px;
+  width: fit-content;
+  height: 40vh;
+}
+
+.Edit{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup{
+  text-decoration: none;
+}
+
+.link{
+  :hover{
+    cursor: pointer;
+  }
+}
